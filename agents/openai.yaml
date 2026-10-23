@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arena Modeling"
+  short_description: "Build models for Arena Simulation 17.0"
+  default_prompt: "Help me build an Arena 17.0 model from this process description. Identify the flow, modules, settings, data, assumptions, and measures."
