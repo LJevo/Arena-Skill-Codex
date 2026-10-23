@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arena Results Analysis"
+  short_description: "Interpret and compare Arena 17.0 simulation results"
+  default_prompt: "Analyze these Arena 17.0 results. Compare the relevant scenarios and measures, quantify uncertainty where replication data allow, and explain practical implications and limits."
